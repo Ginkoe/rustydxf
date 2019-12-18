@@ -1,0 +1,11 @@
+[package]
+name = "rustydxf"
+version = "0.1.0"
+authors = ["Ginkoe <ginkoe@protonmail.com>"]
+edition = "2018"
+
+[[example]]
+name = "find_lines"
+path = "examples/read.rs"
+
+[dependencies]
